@@ -1,1 +1,1 @@
-# PRODIGY_CS_04
+This basic keylogger captures and logs keystrokes, saving them to a file for later review. Designed for ethical use, such as monitoring personal devices or security testing, with proper permissions and legal compliance. ⚠️ Use responsibly and only with explicit consent.
